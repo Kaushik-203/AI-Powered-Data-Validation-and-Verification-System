@@ -1,0 +1,13 @@
+1. main city = {}
+2. description = {}
+
+Outputs:
+a. City name available and main city matching - Provide this output only if the US city name available in description and that too matching with main city.
+b. City name available but main city not matching - Provide this output only if the US city name available in description but not matching with main city.
+c. No City name in description - Provide this output only there is not US city name available in the description. 
+
+Provide only any one response from outputs, you are good in finding the city name in description, 
+
+provide only one response, otherwise i will penalize you. I dont need any explanation, 
+
+need only one output, either, a, or b or c
