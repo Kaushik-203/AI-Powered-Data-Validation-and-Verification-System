@@ -1,0 +1,5 @@
+KEY REQUIREMENTS:
+1.	API Interaction: Interact with two different LLM models via API calls, using an authorization token, to process city name verification.
+2.	Input Data: Load an Excel file and a prompt template from specified file paths to generate prompts based on city names and descriptions.
+3.	Result Verification: Compare model outputs with expected results, and update the DataFrame with verification status.
+4.	Output: Generate a summary of results and save the processed data back to an Excel file.
